@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Around The World In a Day</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name = "text_for_info">"Thanks for having a look at my app.\nThis is a daily guessing game inspired by popular web games such as wordle where there is daily challenge for you to guess.\nTo get started click on either the flag to enter Flag Finder game or the globe to enter the Map Master game.\nThese games will display an image of a flag or the outline of a country or region. The goal is to guess which country or region the flag/ outline belongs to in as few guesses as possible, with six guesses being the maximum for each.\nTo help you along the way the direction and distance to the correct.\n\nIf you would like to see your progress over time, click on the graph image on the previous page."</string>
+</resources>

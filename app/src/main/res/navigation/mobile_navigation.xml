@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_gamemode">
+
+    <fragment
+        android:id="@+id/navigation_gamemode"
+        android:name="com.example.theworld.ui.dashboard.GameFragment"
+        android:label="Game Mode"
+        tools:layout="@layout/fragment_game" />
+
+    <fragment
+        android:id="@+id/navigation_stats"
+        android:name="com.example.theworld.ui.notifications.StatsFragment"
+        android:label="Stats"
+        tools:layout="@layout/fragment_stats" />
+</navigation>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "900899330640",
+    "project_id": "theworld-3fb45",
+    "storage_bucket": "theworld-3fb45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900899330640:android:d43039b6ad1548c87c8f55",
+        "android_client_info": {
+          "package_name": "com.example.theworld"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLHGWRAsQImzWqw6I06juKCGF73BqYJZ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
